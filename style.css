@@ -1,0 +1,45 @@
+#div1 {
+	color: red;
+	border: double;
+}
+
+#div2 {
+	color: blue;
+	border: 5px dotted blue;
+}
+
+#div3 {
+	color: purple;
+	border: 5px solid purple;
+
+}
+
+#div4 {
+	color: green;
+	border: 5px dashed green;
+
+}
+
+#div5 {
+	font-family: 'sans-serif', cursive;
+	color: silver;
+	font-style: italic;
+	font-weight: bold;
+
+}
+
+.crosshair {
+	cursor: crosshair;
+	font-family: cursive;
+
+}
+
+header {
+	font-family: 'ZCOOL Kuaile', cursive;
+
+}
+
+.main {
+	font-family: 'Poiret One', cursive;
+
+}
